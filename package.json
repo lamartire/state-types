@@ -1,8 +1,12 @@
 {
   "name": "state-types",
   "version": "0.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Tiny and easy creating unique types in popular state-management solutions",
+  "keywords": [
+    "redux",
+    "vuex",
+    "state-management"
+  ],
   "main": "dist/index.umd.js",
   "module": "dist/index.es5.js",
   "typings": "dist/types/index.d.ts",
@@ -12,7 +16,7 @@
   "author": "lamartire <lamartire@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lamartire/state-types"
   },
   "license": "MIT",
   "engines": {
