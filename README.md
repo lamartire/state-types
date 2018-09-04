@@ -1,6 +1,6 @@
 # State types
 
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/lamartire/state-types.svg)](https://greenkeeper.io/)
 
 > Tiny and easy creating unique types in popular state-management solutions
 
