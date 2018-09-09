@@ -1,6 +1,6 @@
 import { ITypes } from './types'
 
-const types = (prefix: string, types: string[]): ITypes =>
+const types = (prefix: string, types: string[] = []): ITypes =>
   types.reduce(
     (acc, type) =>
       Object.assign(acc, {
