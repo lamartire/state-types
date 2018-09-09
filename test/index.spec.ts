@@ -7,4 +7,8 @@ describe('types', () => {
       foo: '@@PREFIX/foo'
     })
   })
+
+  it('returns empty object if types not passed', () => {
+    expect(types('@@PREFIX')).toEqual({})
+  })
 })
